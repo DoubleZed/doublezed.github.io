@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Blog
+
+{% post_url 2020-06-02-FIRST-TEST-POST %}
 
 You can use the [editor on GitHub](https://github.com/DoubleZed/doublezed.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
